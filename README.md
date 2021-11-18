@@ -1,7 +1,7 @@
 SublimeLinter-contrib-jsonnet-lint
 ================================
 
-[![Build Status](https://travis-ci.org/m-messiah/SublimeLinter-contrib-jsonnet-lint.svg?branch=master)](https://travis-ci.org/m-messiah/SublimeLinter-contrib-jsonnet-lint)
+[![flake8 Lint](https://github.com/m-messiah/SublimeLinter-contrib-jsonnet-lint/actions/workflows/flake8.yml/badge.svg)](https://github.com/m-messiah/SublimeLinter-contrib-jsonnet-lint/actions/workflows/flake8.yml)
 
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [jsonnet-lint](https://github.com/google/go-jsonnet/tree/master/linter). It will be used with files that have the “jsonnet” syntax.
 
@@ -17,10 +17,3 @@ In order for `jsonnet-lint` to be executed by SublimeLinter, you must ensure tha
 ## Settings
 - SublimeLinter settings: http://sublimelinter.readthedocs.org/en/latest/settings.html
 - Linter settings: http://sublimelinter.readthedocs.org/en/latest/linter_settings.html
-
-Additional SublimeLinter-jsonnet-lint settings:
-
-|Setting|Description    |
-|:------|:--------------|
-|foo    |Something.     |
-|bar    |Something else.|
