@@ -1,7 +1,7 @@
 SublimeLinter-contrib-jsonnet-lint
 ================================
 
-[![Build Status](https://travis-ci.org/m-messiah/SublimeLinter-contrib-jsonnet-lint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-jsonnet-lint)
+[![Build Status](https://travis-ci.org/m-messiah/SublimeLinter-contrib-jsonnet-lint.svg?branch=master)](https://travis-ci.org/m-messiah/SublimeLinter-contrib-jsonnet-lint)
 
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [jsonnet-lint](https://github.com/google/go-jsonnet/tree/master/linter). It will be used with files that have the “jsonnet” syntax.
 
